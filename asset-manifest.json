@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/proyecto-inf122/static/css/main.a69e7bd7.css",
+    "main.js": "/proyecto-inf122/static/js/main.9448698b.js",
+    "static/js/787.e583a54a.chunk.js": "/proyecto-inf122/static/js/787.e583a54a.chunk.js",
+    "static/media/colegio1.jpg": "/proyecto-inf122/static/media/colegio1.562068c7cd8dfc94755a.jpg",
+    "static/media/colegio2.jpg": "/proyecto-inf122/static/media/colegio2.1252674819f0b4987490.jpg",
+    "static/media/colegio-fe-y-alegría.jpg": "/proyecto-inf122/static/media/colegio-fe-y-alegría.6ed0d11578b8bcd89942.jpg",
+    "static/media/colegio5.jpg": "/proyecto-inf122/static/media/colegio5.8eda24871969f4bfab2c.jpg",
+    "static/media/imagen4.jpg": "/proyecto-inf122/static/media/imagen4.6ffa0f2054f3a19ade30.jpg",
+    "static/media/imgestudiantes.jpg": "/proyecto-inf122/static/media/imgestudiantes.c8388d82a5349c7fcc37.jpg",
+    "static/media/imagen3.jpg": "/proyecto-inf122/static/media/imagen3.5fa8b8e7358c48917319.jpg",
+    "static/media/imgFutbol.jpg": "/proyecto-inf122/static/media/imgFutbol.802f9a0090f354c3f9b9.jpg",
+    "static/media/fondotitulo.jpg": "/proyecto-inf122/static/media/fondotitulo.22f10450e5123d54516b.jpg",
+    "index.html": "/proyecto-inf122/index.html",
+    "main.a69e7bd7.css.map": "/proyecto-inf122/static/css/main.a69e7bd7.css.map",
+    "main.9448698b.js.map": "/proyecto-inf122/static/js/main.9448698b.js.map",
+    "787.e583a54a.chunk.js.map": "/proyecto-inf122/static/js/787.e583a54a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a69e7bd7.css",
+    "static/js/main.9448698b.js"
+  ]
+}
